@@ -172,7 +172,7 @@ header{
 
 .nav-right{display:flex; align-items:center; gap:14px;}
 
-@media (max-width:640px){
+@media (max-width:900px){
   .nav-toggle{display:block;}
   .nav-links{
     position:fixed; top:58px; left:0; right:0;
